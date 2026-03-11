@@ -1,4 +1,4 @@
-# Unboxers Assignment Mock Exam
+# Unboxers Assignment Mock Examd
 
 ## 과제 개요
 
